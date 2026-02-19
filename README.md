@@ -24,7 +24,7 @@ O objetivo é consolidar conhecimento sobre **poliglotismo** utilizando intelig�
 
 ## 🔗 Acesso ao NotebookLM
 
-**🚀 [CLIQUE AQUI PARA ACESSAR O NOTEBOOKLM]([SEU_LINK_AQUI](https://notebooklm.google.com/notebook/3bd27fd2-cca4-4822-b3d0-8b1c115af089))**
+**🚀 [CLIQUE AQUI PARA ACESSAR O NOTEBOOKLM](https://notebooklm.google.com/notebook/3bd27fd2-cca4-4822-b3d0-8b1c115af089)**
 
 ---
 
